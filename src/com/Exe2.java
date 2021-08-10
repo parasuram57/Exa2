@@ -25,7 +25,7 @@ public class Exe2 {
 		l.add(10);
 		l.add(20);
 		
-		l.stream().St
+		//l.stream().St
 		
 	}
 
